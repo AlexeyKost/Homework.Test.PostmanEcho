@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.postmanEchoTest1" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-04T21:27:00" hostname="MOYKOMP" time="3.55">
+  <properties/>
+  <testcase name="shouldReturnPostmanEchoText()" classname="ru.netology.postmanEchoTest1" time="2.674"/>
+  <testcase name="shouldReturnPostmanEcho()" classname="ru.netology.postmanEchoTest1" time="0.876"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
